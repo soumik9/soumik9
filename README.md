@@ -1,5 +1,5 @@
 # 💫 Hello:
-I'm Soumik from Bangladesh, and I do Web Design and Development. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and code efficiently.
+I'm Soumik from Bangladesh, and I do Web Design and Development. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and can code efficiently.
 
 
 ## 🌐 Socials:
