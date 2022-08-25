@@ -1,6 +1,21 @@
-# 💫 Hello:
-I'm Soumik from Bangladesh, and I do Web Design and Development. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and can code efficiently.
+<h1 align="center">Hi, I'm Soumik Ahammed</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and can code efficiently.</h3>
 
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumik9&label=Profile%20views&color=0e75b6&style=flat" alt="soumik9" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumik9" alt="soumik9" /></a> </p>
+
+<br />
+
+- 🔭 I’m currently working on **DG Team**
+
+- 🌱 I’m currently learning **Vue, React Native**
+
+- 👨‍💻 All of my projects are available at [https://soumik-portfolio.web.app/](https://soumik-portfolio.web.app/)
+
+- 📫 How to reach me **soumik.ahammed.9@gmail.com**
+
+<br />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumik.ahammed.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14033611/soumik-ahammed) 
