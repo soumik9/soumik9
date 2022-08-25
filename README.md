@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and can code efficiently.</h3>
 
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumik9&label=Profile%20views&color=0e75b6&style=flat" alt="soumik9" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumik9" alt="soumik9" /></a> </p>
-
-<br />
 
 - 🔭 I’m currently working on **DG Team**
 
