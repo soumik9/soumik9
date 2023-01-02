@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh. I really enjoy learning new languages and frameworks like React and NextJS. I am also a fast learner and can code efficiently.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh. I am a fast learner and can code efficiently.</h3>
 
 <br />
 
