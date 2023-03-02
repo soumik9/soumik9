@@ -1,10 +1,6 @@
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh. I am a fast learner and can code efficiently.</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <br />
-
-- 🔭 I’m currently working on **DG Team**
-
-- 🌱 I’m currently learning **Vue, React Native**
 
 - 👨‍💻 All of my projects are available at [https://soumik-portfolio.web.app/](https://soumik-portfolio.web.app/)
 
