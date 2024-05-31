@@ -2,7 +2,7 @@
 
 <br />
 
-- 👨‍💻 All of my projects are available at [https://soumikahammed.vercel.app/](https://soumikahammed.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://soumikahammed.vercel.app/](https://soumikahammed.com/)
 
 - 📫 How to reach me **soumik.ahammed.9@gmail.com**
 
