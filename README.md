@@ -33,7 +33,7 @@ Tools: <br />
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
        	
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soumik9&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumik9?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soumik9&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
