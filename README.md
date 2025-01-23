@@ -8,6 +8,16 @@
 
 <br />
 
+Hello there, As a Full Stack Developer with around 3 years of experience. I am proficient in JavaScript, TypeScript, and skilled in leveraging frameworks and libraries such as React, React Native, Node.js, Express.js, and Next.js to build full-stack applications efficiently.
+
+I have experience working with databases, including both relational and non-relational systems such as MongoDB, MySQL, and NoSQL. My expertise includes designing, optimizing, and maintaining database schemas to ensure efficient data management.
+
+Throughout my career, I have demonstrated problem-solving skills and a keen attention to detail, ensuring that projects are completed on time and within scope. I am passionate about staying updated and continuously enhancing my skill set to provide innovative solutions.
+
+I thrive in collaborative environments and enjoy working closely with cross-functional teams to achieve project goals. My commitment to excellence and continuous improvement drives me to contribute effectively to any organization I am part of.
+
+<br />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumik.ahammed.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumik9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14033611/soumik-ahammed) 
 
