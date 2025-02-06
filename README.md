@@ -12,6 +12,8 @@ Hello there, As a Full Stack Developer with around 3 years of experience. I am p
 
 I have experience working with databases, including both relational and non-relational systems such as MongoDB, MySQL, and NoSQL. My expertise includes designing, optimizing, and maintaining database schemas to ensure efficient data management.
 
+Beyond development, I also have hands-on experience with cloud infrastructure, hosting solutions, domain management, cPanel, VPS, and server optimization. This allows me to manage and deploy applications effectively while ensuring security, scalability, and reliability.
+
 Throughout my career, I have demonstrated problem-solving skills and a keen attention to detail, ensuring that projects are completed on time and within scope. I am passionate about staying updated and continuously enhancing my skill set to provide innovative solutions.
 
 I thrive in collaborative environments and enjoy working closely with cross-functional teams to achieve project goals. My commitment to excellence and continuous improvement drives me to contribute effectively to any organization I am part of.
